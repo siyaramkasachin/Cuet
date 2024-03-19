@@ -1,0 +1,18 @@
+.text-section{
+    padding: 20px;
+    padding-inline: 5%;
+    margin-block: 50px;
+    margin-bottom: 200px;
+}
+
+.text-section h1{
+    padding-block: 5px;
+}
+
+.text-section p{
+    margin-block: 10px;
+}
+
+.text-section h2{
+    margin-top: 40px;
+}
